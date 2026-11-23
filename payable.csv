@@ -1,0 +1,8 @@
+﻿id,club,date,amount,category,bill,summary,status,reason,note
+C01,Coding Club,2026-10-01,1250,printing,True,Paid Rs 1 250 for banner printing at Copy Point,ok_to_pay,Meets the automatic checks; treasurer must sign,"Paid Rs. 1,250 for banner printing at Copy Point. Bill attached"
+C02,Dance Club,2026-10-01,2400,food,True,Snacks for rehearsal 2400 bill attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Snacks for rehearsal 2400, bill attached"
+C05,Music Club,2026-10-03,900,printing,True,Poster printing 900 receipt attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Poster printing 900, receipt attached"
+C11,Music Club,2026-10-07,3200,food,True,Refreshments for open mic 3 200 Bill attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Refreshments for open mic 3,200. Bill attached"
+C18,Literary Club,2026-10-12,1500,printing,True,Printed certificates 1 500 bill attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Printed certificates 1,500, bill attached"
+C21,Dance Club,2026-10-15,1100,printing,True,Banner printing 1 100 Bill attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Banner printing 1,100. Bill attached"
+C22,Coding Club,2026-10-15,600,printing,True,Winner certificates printing 600 bill attached,ok_to_pay,Meets the automatic checks; treasurer must sign,"Winner certificates printing 600, bill attached"

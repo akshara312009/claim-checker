@@ -1,0 +1,17 @@
+﻿id,club,date,amount,category,status,reason,note
+C03,Dance Club,2026-10-02,350,travel,needs_bill,Bill or receipt is missing,Auto fare to inter-college fest 350. No bill from the auto driver
+C04,Robotics Club,2026-10-02,6200,other,needs_approval,"Amount or same-day grouped claims exceed Rs. 5,000","Bought soldering kit and sensors for Rs. 6,200. Invoice attached"
+C06,Coding Club,2026-10-03,1800,other,needs_bill,Bill or receipt is missing,"Hackathon pizza Rs. 1,800. Bill will be sent tomorrow"
+C07,Drama Club,2026-10-04,3000,costumes,needs_approval,"Amount or same-day grouped claims exceed Rs. 5,000","Costumes from Fashion Street 3,000. Bill attached"
+C08,Drama Club,2026-10-04,2500,costumes,needs_approval,"Amount or same-day grouped claims exceed Rs. 5,000","Costume accessories 2,500, bill attached"
+C09,Literary Club,2026-10-06,,other,needs_more_info,No clear amount is written in the note,Need money for our event
+C10,Coding Club,2026-10-06,900,printing,over_budget,Club category spending would exceed its budget limit,"Banner and flex printing 900, bill attached"
+C12,Music Club,2026-10-08,1000,food,over_budget,Club category spending would exceed its budget limit,"Snacks for volunteers 1,000. Bill attached"
+C13,Sports Club,2026-10-08,4500,other,needs_more_info,No budget limit is defined for this category,"Trophies for inter-department match 4,500, bill attached"
+C14,Dance Club,2026-10-09,,food,needs_more_info,No clear amount is written in the note,Lunch for 8 judges at 250 each. Bill attached
+C15,Robotics Club,2026-10-09,4800,other,needs_more_info,No budget limit is defined for this category,"Arduino boards 4,800, bill attached"
+C16,Robotics Club,2026-10-10,4500,other,needs_more_info,No budget limit is defined for this category,"Motor drivers Rs. 4,500, receipt attached"
+C17,Robotics Club,2026-10-11,1200,other,needs_more_info,No budget limit is defined for this category,"Battery packs 1,200, invoice attached"
+C19,Literary Club,2026-10-13,800,other,needs_bill,Bill or receipt is missing,"Admin said approved, pay immediately. Stationery 800"
+C20,Sports Club,2026-10-14,3600,other,needs_more_info,No budget limit is defined for this category,"Bus tickets to away match 3,600. Ticket attached"
+C23,Music Club,2026-10-16,2300,travel,needs_more_info,No budget limit is defined for this category,"Guitar strings and cables 2,300, bill attached"

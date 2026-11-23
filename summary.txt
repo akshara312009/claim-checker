@@ -1,0 +1,54 @@
+CLUB EXPENSE CLAIM CHECKER - SUMMARY
+=============================================
+Total claims processed: 23
+
+STATUS COUNTS
+---------------------------------------------
+ok_to_pay: 7
+needs_more_info: 8
+needs_bill: 3
+needs_approval: 3
+over_budget: 2
+
+CLUB SPENDING AGAINST CATEGORY LIMITS
+---------------------------------------------
+
+Coding Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 0.00 / Rs. 4,000.00 (remaining Rs. 4,000.00)
+  printing: Rs. 1,850.00 / Rs. 2,000.00 (remaining Rs. 150.00)
+
+Dance Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 2,400.00 / Rs. 4,000.00 (remaining Rs. 1,600.00)
+  printing: Rs. 1,100.00 / Rs. 2,000.00 (remaining Rs. 900.00)
+
+Drama Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 0.00 / Rs. 4,000.00 (remaining Rs. 4,000.00)
+  printing: Rs. 0.00 / Rs. 2,000.00 (remaining Rs. 2,000.00)
+
+Literary Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 0.00 / Rs. 4,000.00 (remaining Rs. 4,000.00)
+  printing: Rs. 1,500.00 / Rs. 2,000.00 (remaining Rs. 500.00)
+
+Music Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 3,200.00 / Rs. 4,000.00 (remaining Rs. 800.00)
+  printing: Rs. 900.00 / Rs. 2,000.00 (remaining Rs. 1,100.00)
+
+Robotics Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 0.00 / Rs. 4,000.00 (remaining Rs. 4,000.00)
+  printing: Rs. 0.00 / Rs. 2,000.00 (remaining Rs. 2,000.00)
+
+Sports Club
+  equipment: Rs. 0.00 / Rs. 10,000.00 (remaining Rs. 10,000.00)
+  food: Rs. 0.00 / Rs. 4,000.00 (remaining Rs. 4,000.00)
+  printing: Rs. 0.00 / Rs. 2,000.00 (remaining Rs. 2,000.00)
+
+IMPORTANT
+Only ok_to_pay claims count towards budgets.
+No payment is made by this application.
+The faculty treasurer must see the bill and sign every payment.
