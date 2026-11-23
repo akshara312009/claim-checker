@@ -1,0 +1,23 @@
+import csv, json, sys
+
+def load_csv(path):
+    with open(path, newline='', encoding='utf-8') as f:
+        return list(csv.DictReader(f))
+
+def check_outputs():
+    claims = load_csv('claims.csv')
+    payable = load_csv('payable.csv')
+    review = load_csv('review.csv')
+    results = load_csv('results.csv')
+    # Basic sanity checks
+    assert len(payable) + len(review) == len(claims), "Total rows mismatch"
+    # Ensure each result has a JSON payload
+    for row in results:
+        try:
+            json.loads(row['json'])
+        except Exception as e:
+            raise AssertionError(f"Invalid JSON in results for id {row['id']}: {e}")
+    print('Eval harness passed all basic checks.')
+
+if __name__ == '__main__':
+    check_outputs()
